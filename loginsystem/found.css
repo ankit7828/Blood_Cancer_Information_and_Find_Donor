@@ -1,0 +1,42 @@
+.found {
+    margin: auto;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    width: 600px;
+    height: 650px;
+    border: 2px solid black;
+}
+.found h2 {
+    width: 100%;
+    background-color: #0e9d80;
+    margin-top: 0px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+.found .form {
+    margin-top: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.form-group1 p {
+    margin: auto;
+    width: 90%;
+    padding: 20px;
+    font-size: 1.6rem;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 2px solid black;
+}
+body{
+    background-image: url(../img/website-background-templates.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

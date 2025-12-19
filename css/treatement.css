@@ -1,0 +1,61 @@
+.treate1{
+    background-image: url(../img/Screenshot\ 2024-05-08\ 170908.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    padding-top: 100px;
+}
+
+.treate2{
+    background-image: url(../img/Screenshot\ 2024-05-08\ 223318.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    padding-top: 50px; 
+}
+
+.treate3{
+    background-image: url(../img/Screenshot\ 2024-05-08\ 170908.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    padding-top: 50px; 
+}
+.treatement .treate3 p{
+    color: white;
+    font-size: 1.8rem;
+}
+
+.treate .container{
+    width: 60vw;
+}
+.treate h1{
+    font-size: 4rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.treate p{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.792);
+}
+
+
+.treate1 h3{
+    font-size: 3rem;
+    font-weight: 500;
+    color: white;
+}
+
+.treate1 p{
+    font-size: 1.6rem;
+    color: white;
+}

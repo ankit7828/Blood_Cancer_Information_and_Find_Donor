@@ -1,0 +1,35 @@
+.cause{
+    padding: 100px;
+    background-color: aliceblue;
+}
+
+.cause .cause-data h1{
+    font-size: 4rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.cause .cause-data p{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.792);
+}
+
+.cause-data ul{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 30px;
+    color: rgba(0, 0, 0, 0.792);
+}
+
+.image{
+    text-align: center;
+    padding: 40px;
+}
+
+img{
+    text-align: center;
+    width: 60%;
+    height: auto;
+}

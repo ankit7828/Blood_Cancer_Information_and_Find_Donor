@@ -1,0 +1,72 @@
+.contact-page{
+    padding: 5em;
+    background-color: #ddd;
+}
+
+.form-wrapper::after{
+    content: " ";
+    display: block;
+    clear: both;
+}
+.address-group{
+    float: left;
+    background: white;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.407);
+    width: 49%;
+}
+.address-element{
+    padding: 1em;
+}
+.address-element i{
+    display: inline-block;
+    padding-right: 1em;
+}
+.address-element h1{
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    font-size: 2rem;
+    display: inline-block;
+    color: gray;
+}
+.address-element p{
+    text-transform: lowercase;
+}
+.address-group img{
+    max-width: 90%;
+    padding: 20px 0 55px 10px;
+}
+.form-group{
+    float: right;
+    background: white;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.407);
+    width: 49%;
+    padding: 1em;
+}
+.form-heading{
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    font-size: 2rem;
+    border-bottom:4px solid red ;
+    color: gray;
+}
+.form-group p{
+    text-transform: lowercase;
+    color:gray;
+    padding: 10px 0;
+}
+.f1{
+    font-size: 1.6rem;
+    color: gray;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.submit{
+    background: linear-gradient(25deg ,#d6437f,#ee4758 50%);
+    margin-left:50%;
+    transform: translate(-50%);
+    margin-top: 10px;
+    padding: 10px 40px;
+    color: white;
+    font-size: 1.6rem;
+}
+
